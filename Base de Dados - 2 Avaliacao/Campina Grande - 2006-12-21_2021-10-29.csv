@@ -1,0 +1,17 @@
+Nome: CAMPINA GRANDE;
+Codigo Estacao: A313;
+Latitude: -7.225574;
+Longitude: -35.904831;
+Altitude: 546.17;
+Situacao: Operante;
+Data Inicial: 2006-12-21;
+Data Final: 2021-10-29;
+Periodicidade da Medicao: Mensal;
+;
+Data Medicao;TEMPERATURA MEDIA, MENSAL (AUT)(°C)
+30/11/2015;24.647
+30/11/2016;24.704
+30/11/2017;24.283
+30/11/2018;24.753
+30/11/2019;null
+30/11/2020;24.738

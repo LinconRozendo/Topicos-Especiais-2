@@ -1,0 +1,14 @@
+Nome: ITAPORANGA;
+Codigo Estacao: A373;
+Latitude: -7.31833332;
+Longitude: -38.14083333;
+Altitude: 292;
+Situacao: Pane;
+Data Inicial: 2017-11-02;
+Data Final: 2021-10-29;
+Periodicidade da Medicao: Mensal;
+;
+Data Medicao;TEMPERATURA MEDIA, MENSAL (AUT)(°C)
+30/11/2018;29.998
+30/11/2019;30.477
+30/11/2020;null
